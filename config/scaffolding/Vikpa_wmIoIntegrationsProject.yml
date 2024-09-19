@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Vikpa_wmIoIntegrationsProject
+  gitServerName: wm.ioTest
+  gitUrl: https://github.com/vikpa309/Vikpa_wmIoIntegrationsProject
+  gitUsername: vikpa309
+  gitBranch: main
