@@ -24,3 +24,7 @@ services:
   packages:
   - name: WmPublic
     version: 11.0.0.0.1018
+- serviceName: project.vikpa_wmiointegrations.integrations:globalVariable
+  packages:
+  - name: Vikpa_wmIoIntegrationsProject
+    version: "1.0"
